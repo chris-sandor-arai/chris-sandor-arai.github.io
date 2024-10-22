@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Team ARAI</title><link>https://ar-ai.org/post/</link><atom:link href="https://ar-ai.org/post/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://ar-ai.org/media/icon_huf3b78d476b7845bee05ab0b9b7b31b8f_51310_512x512_fill_lanczos_center_3.png</url><title>News</title><link>https://ar-ai.org/post/</link></image><item><title>Team ARAI presents at ACM SIGGRAPH 2024 Real-Time Live!</title><link>https://ar-ai.org/post/24-09-11-rtl/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate><guid>https://ar-ai.org/post/24-09-11-rtl/</guid><description>&lt;p>At the end of July 2024, we showed a demonstration at the premiere computer
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Team ARAI</title><link>https://ar-ai.org/post/</link><atom:link href="https://ar-ai.org/post/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://ar-ai.org/media/icon_huf3b78d476b7845bee05ab0b9b7b31b8f_51310_512x512_fill_lanczos_center_3.png</url><title>News</title><link>https://ar-ai.org/post/</link></image><item><title>Visit by Canon Japan</title><link>https://ar-ai.org/post/24-10-18-canon/</link><pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate><guid>https://ar-ai.org/post/24-10-18-canon/</guid><description>&lt;p>Canon Japan visited us to present their AR strategy, including their &lt;a href="https://www.youtube.com/watch?v=nweBR5WqfXc" target="_blank" rel="noopener">current&lt;/a> and &lt;a href="https://www.youtube.com/watch?v=tGu8NrbsdTA" target="_blank" rel="noopener">future&lt;/a> headsets. They also showed several really nice demos. It was fun as you can see in the image gallery below.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-canon" href="https://ar-ai.org/media/albums/canon/20241018_152019.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/canon/20241018_152019_hu8503611eae5897e9f0d72a94c46d3faf_4262164_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="20241018_152019.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-canon" href="https://ar-ai.org/media/albums/canon/20241018_154232.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/canon/20241018_154232_hud8432aaedcb9b2ca6d7b408b22ad5550_3114318_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="20241018_154232.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-canon" href="https://ar-ai.org/media/albums/canon/IMG_7348.jpeg" >
+&lt;img src="https://ar-ai.org/media/albums/canon/IMG_7348_hu52bd710e8ca60db26b29f823d4d9c7a4_2133758_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7348.jpeg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-canon" href="https://ar-ai.org/media/albums/canon/IMG_8101.jpeg" >
+&lt;img src="https://ar-ai.org/media/albums/canon/IMG_8101_huc543c82f445acaacf58792eb39a9acaa_3175872_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_8101.jpeg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-canon" href="https://ar-ai.org/media/albums/canon/IMG_8102.jpeg" >
+&lt;img src="https://ar-ai.org/media/albums/canon/IMG_8102_hudbfc9af82186df3061d80d5229ec3f20_2186522_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_8102.jpeg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-canon" href="https://ar-ai.org/media/albums/canon/IMG_8122.jpeg" >
+&lt;img src="https://ar-ai.org/media/albums/canon/IMG_8122_hu6954a591a76218e88bd057a11448f564_2576175_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_8122.jpeg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-canon" href="https://ar-ai.org/media/albums/canon/IMG_8153.jpeg" >
+&lt;img src="https://ar-ai.org/media/albums/canon/IMG_8153_hue48178c84d2f4c816f62598c33ce033a_2905880_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_8153.jpeg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-canon" href="https://ar-ai.org/media/albums/canon/IMG_8160.jpeg" >
+&lt;img src="https://ar-ai.org/media/albums/canon/IMG_8160_huffdf9126b1aaadde1cc5d5af5815d7fc_3418643_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_8160.jpeg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-canon" href="https://ar-ai.org/media/albums/canon/IMG_8161.jpeg" >
+&lt;img src="https://ar-ai.org/media/albums/canon/IMG_8161_huca5c07074b9069afa875cff959cedfa4_2815767_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_8161.jpeg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-canon" href="https://ar-ai.org/media/albums/canon/IMG_8164.jpeg" >
+&lt;img src="https://ar-ai.org/media/albums/canon/IMG_8164_hue79d26b5767d2df264b2202e8af9ff56_2722109_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_8164.jpeg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;/div></description></item><item><title>Team ARAI presents at ACM SIGGRAPH 2024 Real-Time Live!</title><link>https://ar-ai.org/post/24-09-11-rtl/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate><guid>https://ar-ai.org/post/24-09-11-rtl/</guid><description>&lt;p>At the end of July 2024, we showed a demonstration at the premiere computer
 graphics conference: &lt;em>ACM SIGGRAPH&lt;/em>. We even managed to get into one of their
 most challenging categories: &lt;em>Real-Time Live!&lt;/em>&lt;/p>
 &lt;p>Click to read Chris&amp;rsquo;s detailled experience report.&lt;/p></description></item></channel></rss>
