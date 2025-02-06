@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Team ARAI</title><link>https://ar-ai.org/post/</link><atom:link href="https://ar-ai.org/post/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://ar-ai.org/media/icon_huf3b78d476b7845bee05ab0b9b7b31b8f_51310_512x512_fill_lanczos_center_3.png</url><title>News</title><link>https://ar-ai.org/post/</link></image><item><title>Postdoc Position Available</title><link>https://ar-ai.org/post/25-01-07-offer/</link><pubDate>Tue, 07 Jan 2025 14:00:00 +0000</pubDate><guid>https://ar-ai.org/post/25-01-07-offer/</guid><description/></item><item><title>Visit by Canon Japan</title><link>https://ar-ai.org/post/24-10-18-canon/</link><pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate><guid>https://ar-ai.org/post/24-10-18-canon/</guid><description>&lt;p>Canon Japan visited us to present their AR strategy, including their &lt;a href="https://www.youtube.com/watch?v=nweBR5WqfXc" target="_blank" rel="noopener">current&lt;/a> and &lt;a href="https://www.youtube.com/watch?v=tGu8NrbsdTA" target="_blank" rel="noopener">future&lt;/a> headsets. They also showed several really nice demos. It was fun as you can see in the image gallery below. You can also see &lt;a href="https://pages.saclay.inria.fr/emmanuel.pietriga/" target="_blank" rel="noopener">Emmanuel Pietriga&lt;/a>, leader of team ILDA, in some of the photos.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Team ARAI</title><link>https://ar-ai.org/post/</link><atom:link href="https://ar-ai.org/post/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate><image><url>https://ar-ai.org/media/icon_huf3b78d476b7845bee05ab0b9b7b31b8f_51310_512x512_fill_lanczos_center_3.png</url><title>News</title><link>https://ar-ai.org/post/</link></image><item><title>Mizuki's Internship Report</title><link>https://ar-ai.org/post/25-01-09-mizuki-internship/</link><pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate><guid>https://ar-ai.org/post/25-01-09-mizuki-internship/</guid><description>&lt;p>Hello, this is Mizuki Akiyama. I’m a master’s student of Ochanomizu University in Japan. I joined team ARAI as an intern for about 2 months, from early October to mid December 2024. Not only did I proceed with my project, but I also met amazing people, so I was able to spend quality time. I will continue to work with team ARAI remotely from Tokyo!&lt;/p>
+&lt;p>Before coming, I had some online meetings with Professor Christian. Since we talked about how we would do the project during the meetings, I started the implementation immediately upon joining. I could focus very well on my project. The project is based on my personal experience as a cheerleader; I want to help cheerleaders to improve their training using XR technologies! Our ultimate goal is to do it with AR, but as a first step, I built a prototype with VR&lt;/p>
+&lt;p>Furthermore, we went out for dinner together in Paris, and on another day, I was shown around the city. I had a great time with everyone during the other moments.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/top" href="https://ar-ai.org/media/albums/mizuki/top/IMG_0012.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/top/IMG_0012_hu5036c615b2d6d6160c522dbc8854dc34_2232972_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_0012.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/top" href="https://ar-ai.org/media/albums/mizuki/top/IMG_5985.JPG" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/top/IMG_5985_hu2842f9bb582e8041cbb59fd7aefbf61c_881809_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_5985.JPG" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/top" href="https://ar-ai.org/media/albums/mizuki/top/IMG_6636.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/top/IMG_6636_hu259fbd5d4a4bab4623402aeb74037ee4_3025976_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_6636.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/top" href="https://ar-ai.org/media/albums/mizuki/top/IMG_7524.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/top/IMG_7524_hufa1113f165e35bfca06bf8896125f364_3604244_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7524.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We had French Japanese food. I tried something called sushi, but it was not real sushi.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/mid" href="https://ar-ai.org/media/albums/mizuki/mid/IMG_8760.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/mid/IMG_8760_hu4157f350403e0a1d8ea16851b986a15f_3311829_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_8760.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/mid" href="https://ar-ai.org/media/albums/mizuki/mid/IMG_8763.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/mid/IMG_8763_hu27d33409c024a14810ced22d8c747a02_3363074_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_8763.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Additionally, I visited Paris every weekend and I had some trips in Europe. I found it fascinating to experience the different vibes of each country.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/bottom" href="https://ar-ai.org/media/albums/mizuki/bottom/IMG_6559.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/bottom/IMG_6559_hu35556bad1ec0220329066c501ea585f0_2370521_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_6559.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/bottom" href="https://ar-ai.org/media/albums/mizuki/bottom/IMG_7092.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/bottom/IMG_7092_hua067d1554babbfdaa92618774b6fb548_2740686_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7092.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/bottom" href="https://ar-ai.org/media/albums/mizuki/bottom/IMG_7822.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/bottom/IMG_7822_huf1da7e5c8770ea7ccf4d5ef08b3b9faa_3810084_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7822.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/bottom" href="https://ar-ai.org/media/albums/mizuki/bottom/IMG_8153.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/bottom/IMG_8153_hu88e39909393733ab8ee350fb1bc5886c_2029441_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_8153.jpg" width="422" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/bottom" href="https://ar-ai.org/media/albums/mizuki/bottom/IMG_8287.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/bottom/IMG_8287_huf704d76092f163b08300187d5403f133_2160445_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_8287.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-mizuki/bottom" href="https://ar-ai.org/media/albums/mizuki/bottom/IMG_9163.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/mizuki/bottom/IMG_9163_hud7a28246445955b2ecf8281f70c59815_2376688_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_9163.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Even though my English is not good, everyone was very welcoming. I’m so glad to experience this internship, and I appreciate their kindness.
+Please come visit Japan! Thank you very much, ありがとう！&lt;/p></description></item><item><title>Postdoc Position Available</title><link>https://ar-ai.org/post/25-01-07-offer/</link><pubDate>Tue, 07 Jan 2025 14:00:00 +0000</pubDate><guid>https://ar-ai.org/post/25-01-07-offer/</guid><description/></item><item><title>Visit by Canon Japan</title><link>https://ar-ai.org/post/24-10-18-canon/</link><pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate><guid>https://ar-ai.org/post/24-10-18-canon/</guid><description>&lt;p>Canon Japan visited us to present their AR strategy, including their &lt;a href="https://www.youtube.com/watch?v=nweBR5WqfXc" target="_blank" rel="noopener">current&lt;/a> and &lt;a href="https://www.youtube.com/watch?v=tGu8NrbsdTA" target="_blank" rel="noopener">future&lt;/a> headsets. They also showed several really nice demos. It was fun as you can see in the image gallery below. You can also see &lt;a href="https://pages.saclay.inria.fr/emmanuel.pietriga/" target="_blank" rel="noopener">Emmanuel Pietriga&lt;/a>, leader of team ILDA, in some of the photos.&lt;/p>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-canon" href="https://ar-ai.org/media/albums/canon/20241018_152019.jpg" >
