@@ -1,1 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zofia Samsel | Team ARAI</title><link>https://ar-ai.org/author/zofia-samsel/</link><atom:link href="https://ar-ai.org/author/zofia-samsel/index.xml" rel="self" type="application/rss+xml"/><description>Zofia Samsel</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate><image><url>https://ar-ai.org/author/zofia-samsel/avatar_hu2e4d99bde419501bbd217371e9736b95_165563_270x270_fill_q75_lanczos_center.jpg</url><title>Zofia Samsel</title><link>https://ar-ai.org/author/zofia-samsel/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zofia Samsel | Team ARAI</title><link>https://ar-ai.org/author/zofia-samsel/</link><atom:link href="https://ar-ai.org/author/zofia-samsel/index.xml" rel="self" type="application/rss+xml"/><description>Zofia Samsel</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate><image><url>https://ar-ai.org/author/zofia-samsel/avatar_hu2e4d99bde419501bbd217371e9736b95_165563_270x270_fill_q75_lanczos_center.jpg</url><title>Zofia Samsel</title><link>https://ar-ai.org/author/zofia-samsel/</link></image><item><title>Zofia's Internship Report</title><link>https://ar-ai.org/post/25-02-18-zofia-internship/</link><pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate><guid>https://ar-ai.org/post/25-02-18-zofia-internship/</guid><description>&lt;p>Hi, my name is Zofia. Originally from Poland, I am a &lt;strong>M2 Master’s student at Université Paris Cité&lt;/strong>.&lt;/p>
+&lt;p>From March 2023 to January 2024, I had the opportunity to be part of the &lt;strong>ARAI Team&lt;/strong> as an intern. I joined the lab to work on a project in collaboration with &lt;a href="https://www.chaire-bopa.fr/la-methode-bopa/" target="_blank" rel="noopener">La Chaire Innovation BOPA&lt;/a> at Paul Brousse Hospital. I worked under the supervision of &lt;strong>Prof. Nguyen Huyen, Prof. Christian Sandor, and Dr Clément Cormi (BOPA).&lt;/strong> Our focus was on using augmented reality to visualize 3D imaging during open liver surgery.&lt;/p>
+&lt;p>During my time in the lab, I spent time at the hospital observing surgeries and designing experimental protocols to test how different ways of presenting 3D images impact surgical performance and communication. I also developed a demo app to present 3D reconstructions of the liver using the &lt;strong>Canon MREAL HMD,&lt;/strong> which was later tested by surgeons. We also collaborated with &lt;a href="https://www.aphp.fr/actualite/rd-et-innovation-numerique-inauguration-du-tiers-lieu-dexperimentation-bopex-et-de-la" target="_blank" rel="noopener">PRIM 3D&lt;/a>, a 3D printing lab, to create life-sized silicone liver models, which were later used in the experiment.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-zofia/top" href="https://ar-ai.org/media/albums/zofia/top/featured.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/zofia/top/featured_huaff070a83bf71c89d59f05c551c812e0_251234_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="featured.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-zofia/top" href="https://ar-ai.org/media/albums/zofia/top/photo2.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/zofia/top/photo2_hubd6b7ac7b530ab84125276b4bbb949e6_6256781_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="photo2.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-zofia/top" href="https://ar-ai.org/media/albums/zofia/top/photo3.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/zofia/top/photo3_huc38a946bdbae38917cdcb544694227af_186847_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="photo3.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-zofia/top" href="https://ar-ai.org/media/albums/zofia/top/photo4.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/zofia/top/photo4_hu728fb2c6a3662898b26ddb53355c097f_246460_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="photo4.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The project was a challenging yet rewarding experience that gave me valuable insight into how interdisciplinary collaboration between medical and technical expertise can lead to innovative solutions. It showed me how teamwork can help tackle complex tasks and contribute to improving healthcare.&lt;/p>
+&lt;p>I was also lucky to attend the &lt;a href="https://rjc2024.afihm.org/" target="_blank" rel="noopener">Young Researchers in Human-Computer Interaction Meeting&lt;/a> in La Rochelle and volunteer at the &lt;a href="https://sui.acm.org/" target="_blank" rel="noopener">SUI Symposium on Spatial User Interaction&lt;/a>. Both events introduced me to new ideas, cutting-edge research, and inspiring people in the field of HCI.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-zofia/bottom" href="https://ar-ai.org/media/albums/zofia/bottom/photo5.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/zofia/bottom/photo5_hu836e508bfc60138b77adb659ac13436a_298077_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="photo5.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-zofia/bottom" href="https://ar-ai.org/media/albums/zofia/bottom/photo6.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/zofia/bottom/photo6_huaa7d7bb360aba8a5b2677d5c5255296d_189797_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="photo6.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-zofia/bottom" href="https://ar-ai.org/media/albums/zofia/bottom/photo7.jpg" >
+&lt;img src="https://ar-ai.org/media/albums/zofia/bottom/photo7_hua8237388394b671d2702cf34d6092f40_288679_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="photo7.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>But my internship wasn’t just about research! I met so many interesting people in the lab and had some great experiences outside the lab too. We organized fun outings like a trip to &lt;strong>Asterix Park&lt;/strong>, or &lt;strong>ice skating&lt;/strong>, which helped me feel more connected to the team.&lt;/p>
+&lt;p>Looking back, my time with the ARAI Team was a valuable learning experience, both professionally and personally. I’m grateful for the support of my supervisors and colleagues. This experience has shaped my future, and I’m excited to see where it leads next!&lt;/p></description></item></channel></rss>
