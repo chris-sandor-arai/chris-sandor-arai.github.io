@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hovhannes Margaryan | Team ARAI</title><link>https://ar-ai.org/author/hovhannes-margaryan/</link><atom:link href="https://ar-ai.org/author/hovhannes-margaryan/index.xml" rel="self" type="application/rss+xml"/><description>Hovhannes Margaryan</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://ar-ai.org/author/hovhannes-margaryan/avatar_hu610f45a61d1b4d301d555fc318a300bb_108908_270x270_fill_q75_lanczos_center.jpg</url><title>Hovhannes Margaryan</title><link>https://ar-ai.org/author/hovhannes-margaryan/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hovhannes Margaryan | Team ARAI</title><link>https://ar-ai.org/author/hovhannes-margaryan/</link><atom:link href="https://ar-ai.org/author/hovhannes-margaryan/index.xml" rel="self" type="application/rss+xml"/><description>Hovhannes Margaryan</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://ar-ai.org/author/hovhannes-margaryan/avatar_hu610f45a61d1b4d301d555fc318a300bb_108908_270x270_fill_q75_lanczos_center.jpg</url><title>Hovhannes Margaryan</title><link>https://ar-ai.org/author/hovhannes-margaryan/</link></image><item><title>My Experience at ADOS: From Keynotes to Hackathon Experiments</title><link>https://ar-ai.org/post/25-03-28-ados/</link><pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate><guid>https://ar-ai.org/post/25-03-28-ados/</guid><description>&lt;p>On &lt;strong>28 March 2025&lt;/strong>, I had the pleasure of participating in &lt;a href="https://www.lightricks.com/ados" target="_blank" rel="noopener">ADOS&lt;/a> in Paris—a creative technology event—co‑organized by &lt;a href="https://banodoco.ai" target="_blank" rel="noopener">Banodoco&lt;/a> and &lt;a href="https://www.lightricks.com" target="_blank" rel="noopener">Lightricks&lt;/a> at &lt;a href="https://www.artifex-lab.com" target="_blank" rel="noopener">Artifex Lab&lt;/a>. Walking into that space, you could feel the excitement: artists, engineers, and technologists converging around the open‑source &lt;a href="https://github.com/Lightricks/LTX-Video" target="_blank" rel="noopener">LTXV&lt;/a> model. I’d been following LTXV’s rapid evolution—a text-to-video model that generates video clips from text in real time—so it was thrilling to see the community around it in action.&lt;/p>
+&lt;h2 id="first-day-at-ados-talks--connections">First Day at ADOS: Talks &amp;amp; Connections&lt;/h2>
+&lt;p>In the evening’s lineup, standout presentations ranged from &lt;a href="https://www.youtube.com/live/gBeZSbaxMvc?t=468s" target="_blank" rel="noopener">Emma Catnip&lt;/a>’s soulful art pieces to &lt;a href="https://github.com/yvann-ba" target="_blank" rel="noopener">Vibeke Bertelsen&lt;/a>’s uncanny human forms, and Yvann Barbot’s ComfyUI audio-reactive video demos. My supervisor, &lt;a href="https://drsandor.net" target="_blank" rel="noopener">Christian Sandor&lt;/a>, also delivered an inspiring keynote, and our team showcased a &lt;a href="https://youtu.be/gBeZSbaxMvc?t=7066" target="_blank" rel="noopener">demo&lt;/a> exploring the convergence of AR and AI—a project that deeply influenced my own thinking about generative storytelling.&lt;/p>
+&lt;p>Amid all this, I found LTXV’s open‑source availability fascinating—not just as technical innovation, but as a platform for collective creativity. Seeing Lightricks being open with their weights and tools seemed like a pivotal moment in democratizing video AI.&lt;/p>
+&lt;h2 id="day-two-hackathon--video-editing-and-reference-based-styletransfer-experiments">Day Two: Hackathon &amp;amp; Video Editing and Reference-based Style‑Transfer Experiments&lt;/h2>
+&lt;p>The very next day I joined the ADOS hackathon, working side by side with others to push LTXV’s limits. Provided computation resources, power, snacks, and steady energy pulses fueled the intense collaborative rhythm of the event.
+For my project, I focused on one core idea: simultaneous style transfer and editing for text‑to‑video (T2V) using LTXV. Given a style reference image, a video clip, and a text prompt describing the edit, I experimented with three distinct methods to transfer visual style while&lt;/p>
+&lt;ol>
+&lt;li>Latent alpha blending: Alpha blending between the inverted style image latent and the inverted latent of the video&amp;rsquo;s first frame.&lt;/li>
+&lt;li>KV sharing with alpha blending: Repeating the style’s keys and values to match video dimensions (repeat-interleave) and blending them.&lt;/li>
+&lt;li>KV sharing via concatenation: Appending the style&amp;rsquo;s keys and values to the video&amp;rsquo;s keys and values for joint processing with full 3D attention.&lt;/li>
+&lt;/ol>
+&lt;figure>
+&lt;div style="display: flex; align-items: center; gap: 1rem;">
+&lt;figure style="width: 60%; margin-bottom:0;">
+&lt;video style="margin: 0" controls autoplay muted loop>
+&lt;source src="media/input_hf.mp4" type="video/mp4">
+Your browser does not support video.
+&lt;/video>
+&lt;figcaption style="text-align: center; font-style: italic; margin-bottom:0;"> Input Video &lt;/figcaption>
+&lt;/figure>
+&lt;figure style="width: 40%; margin-bottom:0;">
+&lt;img src="media/style_image.png"/>
+&lt;figcaption style="text-align: center; font-style: italic; margin-bottom:0;"> Reference Style &lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div style="display: flex; align-items: center; gap: 1rem;">
+&lt;figure style="width: 50%; margin-bottom:0;">
+&lt;img src="media/algo_1.gif"/>
+&lt;figcaption style="text-align: center; font-style: italic; margin-bottom:0;"> Method 1 &lt;/figcaption>
+&lt;/figure>
+&lt;figure style="width: 50%; margin-bottom:0;">
+&lt;img src="media/algo_2.gif"/>
+&lt;figcaption style="text-align: center; font-style: italic; margin-bottom:0;"> Method 2 &lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div style="display: flex; align-items: center; gap: 1rem;">
+&lt;figure style="width: 50%; margin-bottom: 10px;">
+&lt;img src="media/algo_3_1.gif"/>
+&lt;figcaption style="text-align: center; font-style: italic; margin-bottom:0;"> Method 3 (Layer 5) &lt;/figcaption>
+&lt;/figure>
+&lt;figure style="width: 50%; margin-bottom: 10px;">
+&lt;img src="media/algo_3_2.gif"/>
+&lt;figcaption style="text-align: center; font-style: italic; margin-bottom:0;"> Method 3 (Layer 27) &lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p style="font-size: 12px"> Text Prompt: A big horse triumphantly at the peak of a towering mountain. Panorama of rugged peaks and valleys. Very futuristic vibe and animated aesthetic. Highlights of purple and golden colors in the scene. The sky is looks like an animated/cartoonish dream of galaxies, nebulae, stars, planets, moons, but the remainder of the scene is mostly realistic.&lt;/p>
+&lt;figcaption style="text-align: left; font-style: italic;"> &lt;b>Figure 1:&lt;/b> Method 1 fails to propagate style information to the generated video. In Method 3, the choice of attention layer for injection critically impacts the outcome: early-layer injection (e.g., layers 5 or 13) suppresses motion and overemphasizes style, whereas later-layer injection (e.g., layer 27) achieves a more balanced integration of style and motion. Style image from &lt;a href="https://www.pinterest.com">Pinterest.&lt;/a> Input video from &lt;a href="https://huggingface.co">Hugging Face.&lt;/a>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>For the text‑based editing component, I used &lt;a href="https://rf-solver-edit.github.io" target="_blank" rel="noopener">RF‑Edit&lt;/a>. My findings indicate that latent alpha blending is ineffective for style transfer. KV sharing methods can propagate style, but often at the expense of content fidelity or motion consistency. In particular, style injection may introduce unnatural motion not present in the original video. The injection point within the attention layers significantly affects results: early-layer injection (e.g., layers 5 or 13) suppresses motion and overemphasizes style, while later-layer injection (e.g., layer 27) offers a better balance between style and motion.&lt;/p>
+&lt;h2 id="reflections--what-comes-next">Reflections &amp;amp; What Comes Next&lt;/h2>
+&lt;p>ADOS was an inspiring gathering—not only for witnessing the technical evolution of generative video, but also for experiencing the vibrant culture of open, collaborative experimentation that surrounds it.
+Huge thanks to the ADOS team—&lt;strong>Banodoco, Lightricks, and Artifex Lab&lt;/strong>—for organizing an inspiring and technically rich weekend. Events like this make open‑source generative video feel alive. I can’t wait to keep building on what started in Paris.&lt;/p></description></item></channel></rss>
