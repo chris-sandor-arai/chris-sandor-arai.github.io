@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Job Offers | Team ARAI</title><link>https://ar-ai.org/offers/</link><atom:link href="https://ar-ai.org/offers/index.xml" rel="self" type="application/rss+xml"/><description>Job Offers</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>https://ar-ai.org/media/icon_huf3b78d476b7845bee05ab0b9b7b31b8f_51310_512x512_fill_lanczos_center_3.png</url><title>Job Offers</title><link>https://ar-ai.org/offers/</link></image><item><title>Internship (Neural Rendering)</title><link>https://ar-ai.org/offers/internship-neural-rendering/</link><pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate><guid>https://ar-ai.org/offers/internship-neural-rendering/</guid><description>&lt;h1 id="evaluate-neural-rendering-methods-for-xrai-applications">Evaluate Neural Rendering Methods for XR/AI Applications​&lt;/h1>
+&lt;h2 id="keywords">Keywords&lt;/h2>
+&lt;p>Computer Graphics, Augmented Reality, Neural Rendering, Generative AI, Rapid Prototyping&lt;/p>
+&lt;h2 id="project-surpervisors">Project Surpervisors&lt;/h2>
+&lt;p>&lt;a href="https://ar-ai.org/author/daniel-filonik/" target="_blank" rel="noopener">Daniel Filonik&lt;/a>, &lt;a href="https://ar-ai.org/author/christian-sandor/" target="_blank" rel="noopener">Christian Sandor&lt;/a>, &lt;a href="https://ar-ai.org/author/huyen-nguyen/" target="_blank" rel="noopener">Huyen Nguyen&lt;/a>.&lt;/p>
+&lt;p>Emails: &lt;a href="mailto:daniel.filonik@universite-paris-saclay.fr">daniel.filonik@universite-paris-saclay.fr&lt;/a>, &lt;a href="mailto:christian.sandor@universite-paris-saclay.fr">christian.sandor@universite-paris-saclay.fr&lt;/a>, &lt;a href="mailto:thi-thuong-huyen.nguyen@universite-paris-saclay.fr">thi-thuong-huyen.nguyen@universite-paris-saclay.fr&lt;/a>&lt;/p>
+&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The recent advances in machine learning have inspired and enabled an abundance of novel methods in computer graphics. Collectively these approaches are sometimes referred to as &amp;ldquo;neural rendering methods&amp;rdquo;. Applications of these methods are vast, and they can outperform classic shaders in fidelity and performance. For example, they include:&lt;/p>
+&lt;ul>
+&lt;li>Geometry/Texture Compression&lt;/li>
+&lt;li>Generative Materials&lt;/li>
+&lt;li>Generative Geometries&lt;/li>
+&lt;li>Light Simulation/Physically Based Rendering&lt;/li>
+&lt;li>Post-Processing/Effects&lt;/li>
+&lt;/ul>
+&lt;p>The fundamental idea behind neural rendering is: Rather than compute an exact solution for an expensive computation, use machine learning to approximate it. This way, the goal is that computations which were previously too expensive for real-time applications, can now be performed more efficiently.&lt;/p>
+&lt;p>Efficiency is especially important in resource constrained computing environment, such as portable extended reality (XR) devices. Due to the engineering challenges in portable devices, they are often limited in terms of their compute capabilities. At the same time, XR applications have very high requirements in terms of accuracy and realism. The better the quality of the rendering, the more convincing and seamless the integration between virtual and real-world objects.&lt;/p>
+&lt;p>Through this project, we want to explore novel rendering approaches and foster expertise in our team. As part of this, the intern will:&lt;/p>
+&lt;ul>
+&lt;li>Review the influx of novel neural rendering methods.&lt;/li>
+&lt;li>Evaluate the feasibility of implementing these methods for XR/AI applications.&lt;/li>
+&lt;/ul>
+&lt;p>In the process of this project, the intern will produce proof-of-concept prototypes to explore the viability of neural rendering methods for XR/AI applications. The goal is to implement two or more comparable methods, and rigorously test and compare their performance. This will allow the intern to gather valuable experience working with XR/AI technologies. Furthermore, we anticipate the publication of a literature review, which will provide the foundation for future research, and a first prototype to demonstrate the research direction.&lt;/p>
+&lt;p>The goal is to produce a literature review to cover the current state-of-the-art of neural rendering methods. This will be a valuable resource for researchers who are looking to get an overview of the rapidly growing research area. It will also allow the research intern to gain experience with the process of academic publishing.&lt;/p>
+&lt;h2 id="apply">Apply&lt;/h2>
+&lt;p>To express your interest, please send your application materials to Daniel Filonik, cc Huyen Nguyen, Christian Sandor:&lt;/p>
+&lt;ul>
+&lt;li>CV&lt;/li>
+&lt;li>Transcript of Records&lt;/li>
+&lt;li>Link to portfolio (github, personal homepage, etc.)&lt;/li>
+&lt;/ul></description></item><item><title>Postdoc</title><link>https://ar-ai.org/offers/postdoc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ar-ai.org/offers/postdoc/</guid><description>&lt;h2 id="postdocs">Postdocs&lt;/h2>
+&lt;h4 id="summary">Summary&lt;/h4>
+&lt;ul>
+&lt;li>Starting date: continuously&lt;/li>
+&lt;li>Salary: up to EUR 4291 (gross per month; depending on experience)&lt;/li>
+&lt;/ul>
+&lt;h4 id="introduction">Introduction&lt;/h4>
+&lt;p>Generative Artiﬁcial Intelligence (AI) and Augmented Reality (AR) have made incredible progress over the last few years. We are not far away from a future, in which a user&amp;rsquo;s view could be continuously modified by their smart glasses. Besides some obvious ethical concerns about such a future, there are also immense opportunities for using this capability to make our lives better. The high-level context of this position is to help us develop fundamental technologies and study their applications and effects on humans.&lt;/p>
+&lt;p>A special benefit of this position is that is intended to support outstanding young researchers to prepare an application for a lifetime position at &lt;a href="https://en.wikipedia.org/wiki/French_National_Centre_for_Scientific_Research" target="_blank" rel="noopener">CNRS&lt;/a>. These positions are unique, as they provide the probably fastest tracks for talented young researchers to get a tenured position (more than 5 years faster than a comparable track in e.g. the USA). CNRS positions also come with a status as French civil servant, which includes significant benefits (e.g. sabbaticals with a duration of up to 8 years, true lifetime employment, an attractive pension, etc.).&lt;/p>
+&lt;p>The ideal candidate has 2-3 years of postdoc experience.&lt;/p></description></item></channel></rss>
