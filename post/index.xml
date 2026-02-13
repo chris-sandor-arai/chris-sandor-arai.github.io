@@ -6,11 +6,14 @@
 &lt;p>Room: Salle Conférences - Campus Universitaire bât.507 - Rue du Belvédère 91405 - Orsay.&lt;/p>
 &lt;p>Online: &lt;a href="https://bbb.lisn.upsaclay.fr/rooms/n3k-chl-cpk-ghs/join" target="_blank" rel="noopener">https://bbb.lisn.upsaclay.fr/rooms/n3k-chl-cpk-ghs/join&lt;/a>&lt;/p>
 &lt;h2 id="jury">Jury:&lt;/h2>
-&lt;p>M. Vincent NOURRIT , Professeur , IMT Atlantique, Rapporteur
-Mme Stefanie ZOLLMANN, Associate Professor, Aarhus University, Rapporteure
-M. Laurent VABRE, Docteur , Imagine Eyes, Examinateur
-M. Gabriele FACCIOLO, Professeur, ENS Paris-Saclay, Examinateur&lt;/p>
-&lt;p>Keywords: Augmented Vision, Human-Computer Interaction, Human Visual System, Freeform Lenses, Spatial Light Modulator, Computational Optics&lt;/p>
+&lt;ul>
+&lt;li>M. Vincent NOURRIT, Professeur, IMT Atlantique, Rapporteur&lt;/li>
+&lt;li>Mme Stefanie ZOLLMANN, Associate Professor, Aarhus University, Rapporteure&lt;/li>
+&lt;li>M. Laurent VABRE, Docteur, Imagine Eyes, Examinateur&lt;/li>
+&lt;li>M. Gabriele FACCIOLO, Professeur, ENS Paris-Saclay, Examinateur&lt;/li>
+&lt;/ul>
+&lt;h2 id="keywords">Keywords:&lt;/h2>
+&lt;p>Augmented Vision, Human-Computer Interaction, Human Visual System, Freeform Lenses, Spatial Light Modulator, Computational Optics&lt;/p>
 &lt;h2 id="abstract">Abstract:&lt;/h2>
 &lt;p>Augmented Vision (AV) is an emerging field that aims to enhance human sight by directly modulating a user&amp;rsquo;s view of the real world. Unlike traditional visual aids such as spectacles or contact lenses that provide static correction, AV systems offer dynamic, real-time modulation of the real world. This capability to actively change the user&amp;rsquo;s view opens up new possibilities for both correcting and augmenting human vision. One of the three most common applications for AV is vision correction. This is particularly relevant for presbyopia, an age-related condition affecting 1.8 billion people worldwide. Conventional solutions, such as progressive glasses or multifocal contact lenses, offer a static compromise with fixed focal zones or averaged focus, respectively. In contrast, AV systems use their inherently dynamic behaviour to address these limitations. For instance, some systems use automatic single focus approaches using focus-tunable lenses to focus at specific depths. However, this approach is limited to applying one optical power across the entire field of view at a time. The alternatives are multifocal systems, which provide granular, spatial control over focus. However, while the concept has been demonstrated, there is a lack of objective evaluation of the imaging quality of such systems.&lt;/p>
 &lt;p>This thesis addresses two primary objectives. The first is to establish a conceptual framework for Augmented Vision by stating a formal definition and a new taxonomy that categorises existing systems by their light modulation method. The second is to address a gap identified by this framework: the lack of multifocal augmented vision systems and the evaluation of their imaging performance. To tackle the challenges of providing multifocal vision, this thesis proposes an optical architecture that combines a phase-only Spatial Light Modulator (SLM) with a Lohmann lens, allowing spatial control of the optical power over the Field Of View (FOV), providing see-through, real-world modulation. We validate the prototype by measuring the Modulation Transfer Function (MTF) for global and multifocal correction, placing objects at various depths and setting the system&amp;rsquo;s focus at them. We use a camera with its focus set to infinity to simulate a presbyopic eye during the measurements. The results confirm that the system can bring objects from multiple depths into focus, demonstrating a higher MTF for each focused plane when the system is active compared to the inactive condition.&lt;/p>
